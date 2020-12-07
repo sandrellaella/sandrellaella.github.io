@@ -1,3 +1,6 @@
 name: sandrellaella
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.16.5"
+
+ plugins:
+   - jekyll-include-cache
